@@ -8,11 +8,8 @@
 </p>
 <hr>
 <h2>Imagens do projeto</h2>
+ <img width="600" height="400" src="https://github.com/GALSANTA/pankararu/blob/master/about/home.png"/>
+ <img width="600" height="400" src="https://github.com/GALSANTA/pankararu/blob/master/about/busca.png"/>
+ <img width="600" height="400" src="https://github.com/GALSANTA/pankararu/blob/master/about/cadastro.png"/>
+ <img width="600" height="400" src="https://github.com/GALSANTA/pankararu/blob/master/about/pdf.png"/>
 
-
-
-<h2>Desavenças</h2>
-<p>
-  O sistema também deveria gerar uma carteirinha da associação, contudo houve muitos erros. Implematação desta
-  funcionalidade acontecerá em algum momento de 2020.
-</p>
